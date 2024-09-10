@@ -1,0 +1,1 @@
+The script generates a 3D graph to visualize the influence of harmonics in an electrical system. Additionally, the difference between the concept of the cosine of φ and the power factor can be seen graphically
