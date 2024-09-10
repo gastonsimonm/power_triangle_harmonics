@@ -52,7 +52,7 @@ def update_plot(P1_mag, cos_fi, D_mag, ax):
     
     ax.set_xlabel('Active Power (kW)')
     ax.set_ylabel('Reactive Power (kVAr)')
-    ax.set_zlabel('Harmonic Distortion')
+    ax.set_zlabel('Harmonic Distortion (kVAr)')
     
     ax.set_title("Power Triangle With Harmonics")
     
